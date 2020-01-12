@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0231dfe5-7f83-4d01-a443-7cee8af6a6f1" name="Default Changelist" comment="" />
+    <list default="true" id="0231dfe5-7f83-4d01-a443-7cee8af6a6f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KodCezara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortowanieBabelkowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortowaniePrzezWstawianie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SzyfrCezara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StrukturyDanych/Bankomat3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturyDanych/Bankomat3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bankomat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bankomat3.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +24,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WF4DWjI0dcUzrMcDMJLzeqkCae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kopiec" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,21 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bankomat3">
-    <configuration name="Bankomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bankomat" />
-      <module name="StrukturyDanych" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bankomat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bankomat2" />
-      <module name="StrukturyDanych" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SzyfrCezara">
     <configuration name="Bankomat3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bankomat3" />
       <module name="StrukturyDanych" />
@@ -50,15 +53,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiczbyPierwsze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiczbyPierwsze" />
+    <configuration name="KodCezara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KodCezara" />
       <module name="StrukturyDanych" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaLiczb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumaLiczb" />
+    <configuration name="SortowanieBabelkowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortowanieBabelkowe" />
+      <module name="StrukturyDanych" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortowaniePrzezWstawianie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortowaniePrzezWstawianie" />
+      <module name="StrukturyDanych" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SzyfrCezara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SzyfrCezara" />
       <module name="StrukturyDanych" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SzyfrCezara" />
+        <item itemvalue="Application.SortowaniePrzezWstawianie" />
+        <item itemvalue="Application.SortowanieBabelkowe" />
+        <item itemvalue="Application.KodCezara" />
         <item itemvalue="Application.Bankomat3" />
-        <item itemvalue="Application.Bankomat2" />
-        <item itemvalue="Application.Bankomat" />
-        <item itemvalue="Application.SumaLiczb" />
-        <item itemvalue="Application.LiczbyPierwsze" />
       </list>
     </recent_temporary>
   </component>
@@ -86,5 +103,18 @@
       <updated>1578731889104</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

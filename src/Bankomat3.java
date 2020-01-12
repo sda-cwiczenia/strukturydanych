@@ -17,7 +17,8 @@ public class Bankomat3 {
 
         System.out.println("Bankomat wypłaci:");
         for (int i=0; i<nominaly.length; i++) {
-            System.out.println("Kwota : "+nominaly[i]+" - ilość : "+iloscNominalow[i]);
+            if (iloscNominalow[i] == 0) continue;
+            else System.out.println("Kwota : "+nominaly[i]+" - ilość : "+iloscNominalow[i]);
         }
 
     }
